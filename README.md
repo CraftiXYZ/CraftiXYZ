@@ -2,5 +2,5 @@
 
 Here are some infos about me:
 
-- I'm currently working on **Hood**
-- I live in *Hannover Germany*
+- I'm currently working on **nothing**
+- I live on **earth**
